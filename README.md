@@ -45,7 +45,7 @@ The dashboard provides an interactive way to explore physical symptoms, recovery
 
 ## 📂 Files in This Repository
 - `Post Covid Health Effects.pbix` – Power BI dashboard file
-- `dashboard.png` – Dashboard screenshot
+- `post covid.png` – Dashboard screenshot
 - `README.md` – Project documentation
 
 ---
