@@ -9,7 +9,7 @@ The dashboard provides an interactive way to explore physical symptoms, recovery
 
 ## 📊 Dashboard Preview
 
-![Post COVID Health Effects Dashboard](dashboard.png)
+![Post COVID Health Effects Dashboard](https://github.com/Mbuzi99/post-covid-health-effects-analysis/blob/main/Screenshots/covid.png)
 
 > 📷 *Screenshot of the Power BI dashboard. Upload your image to the repository with the name `dashboard.png` for it to display here.*
 
